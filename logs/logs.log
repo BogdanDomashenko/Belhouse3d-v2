@@ -1,0 +1,182 @@
+---------------------options---------------------
+batch_size:16
+cfg:./benchmark_semseg/cfg/pointnet_c.cfg
+dataset:touchstone3d
+debug:True
+decay_rate:0.0001
+epoch:100
+gpu:0
+jitter:1
+log_dir:./logs
+lr:0.001
+lr_clip:1e-05
+lr_decay:0.7
+mirror_prob:0
+model:pointnet
+npoint:2048
+optimizer:Adam
+rot:1
+scale:0
+step_size:10
+weighted_loss:True
+-------------------------------------------------
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+---------------------options---------------------
+batch_size:16
+cfg:./benchmark_semseg/cfg/pointnet_c.cfg
+dataset:touchstone3d
+debug:True
+decay_rate:0.0001
+epoch:100
+gpu:0
+jitter:1
+log_dir:./logs
+lr:0.001
+lr_clip:1e-05
+lr_decay:0.7
+mirror_prob:0
+model:pointnet
+npoint:2048
+optimizer:Adam
+rot:1
+scale:0
+step_size:10
+weighted_loss:True
+-------------------------------------------------
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+---------------------options---------------------
+batch_size:16
+cfg:./benchmark_semseg/cfg/pointnet_c.cfg
+dataset:touchstone3d
+debug:True
+decay_rate:0.0001
+epoch:100
+gpu:0
+jitter:1
+log_dir:./logs
+lr:0.001
+lr_clip:1e-05
+lr_decay:0.7
+mirror_prob:0
+model:pointnet
+npoint:2048
+optimizer:Adam
+rot:1
+scale:0
+step_size:10
+weighted_loss:True
+-------------------------------------------------
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+---------------------options---------------------
+batch_size:16
+cfg:./benchmark_semseg/cfg/pointnet_c.cfg
+dataset:touchstone3d
+debug:True
+decay_rate:0.0001
+epoch:100
+gpu:0
+jitter:1
+log_dir:./logs
+lr:0.001
+lr_clip:1e-05
+lr_decay:0.7
+mirror_prob:0
+model:pointnet
+npoint:2048
+optimizer:Adam
+rot:1
+scale:0
+step_size:10
+weighted_loss:True
+-------------------------------------------------
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+---------------------options---------------------
+batch_size:16
+cfg:./benchmark_semseg/cfg/pointnet_c.cfg
+dataset:touchstone3d
+debug:True
+decay_rate:0.0001
+epoch:100
+gpu:0
+jitter:1
+log_dir:./logs
+lr:0.001
+lr_clip:1e-05
+lr_decay:0.7
+mirror_prob:0
+model:pointnet
+npoint:2048
+optimizer:Adam
+rot:1
+scale:0
+step_size:10
+weighted_loss:True
+-------------------------------------------------
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+---------------------options---------------------
+batch_size:16
+cfg:./benchmark_semseg/cfg/pointnet_c.cfg
+dataset:touchstone3d
+debug:True
+decay_rate:0.0001
+epoch:100
+gpu:0
+jitter:1
+log_dir:./logs
+lr:0.001
+lr_clip:1e-05
+lr_decay:0.7
+mirror_prob:0
+model:pointnet
+npoint:2048
+optimizer:Adam
+rot:1
+scale:0
+step_size:10
+weighted_loss:True
+-------------------------------------------------
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+---------------------options---------------------
+batch_size:16
+cfg:./benchmark_semseg/cfg/pointnet_c.cfg
+dataset:touchstone3d
+debug:True
+decay_rate:0.0001
+epoch:100
+gpu:1
+jitter:1
+log_dir:./logs
+lr:0.001
+lr_clip:1e-05
+lr_decay:0.7
+mirror_prob:0
+model:pointnet
+npoint:2048
+optimizer:Adam
+rot:1
+scale:0
+step_size:10
+weighted_loss:True
+-------------------------------------------------
+Creating converter from 7 to 5
+Creating converter from 5 to 7
+Creating converter from 7 to 5
+Creating converter from 5 to 7
