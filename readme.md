@@ -1,7 +1,3 @@
-Here's a **polished and well-structured version** of your README draft, with improved clarity, grammar, formatting, and added links to the original projects:
-
----
-
 # BelHouse3D — Fixed Version
 
 This is a **maintained and partially fixed version** of the [original BelHouse3D project](https://github.com/umaatgithub/BelHouse3D?tab=readme-ov-file), with contributions and fixes by **Bohdan Domashenko**. In this version, only **PointNet** has been fixed and tested. Other models may still have issues and require further debugging.
