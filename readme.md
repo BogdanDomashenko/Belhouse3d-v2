@@ -40,7 +40,7 @@ To get access:
 4. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/your-fork/belhouse3d.git
+   git clone https://github.com/BogdanDomashenko/Belhouse3d-v2.git
    ```
 
 ---
